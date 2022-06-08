@@ -1,0 +1,151 @@
+CREATE TABLE "admin" (
+	"admin_id"	INTEGER NOT NULL,
+	"firstname"	TEXT NOT NULL,
+	"middlename"	TEXT NOT NULL,
+	"password"	TEXT NOT NULL,
+	"notes"	TEXT,
+	"email"	TEXT NOT NULL,
+	"phone_number"	TEXT NOT NULL,
+	"role"	TEXT NOT NULL,
+	"date_joined"	TEXT NOT NULL,
+	"address"	TEXT NOT NULL,
+	"updates"	TEXT,
+	"lastname"	TEXT NOT NULL,
+	PRIMARY KEY("admin_id" AUTOINCREMENT)
+);
+
+CREATE TABLE "student" (
+	"student_id"	INTEGER NOT NULL,
+	"firstname"	TEXT NOT NULL,
+	"middlename"	INTEGER NOT NULL,
+	"lastname"	TEXT NOT NULL,
+	"age"	TEXT NOT NULL,
+	"gender"	TEXT NOT NULL,
+	"dob"	TEXT NOT NULL,
+	"class"	TEXT NOT NULL,
+	"program"	TEXT NOT NULL,
+	"address"	TEXT NOT NULL,
+	"started_from_here"	TEXT NOT NULL,
+	"from_where"	TEXT NOT NULL,
+	"uniform_flag"	TEXT NOT NULL,
+	"school_fees_flag"	TEXT NOT NULL,
+	"academic_flag"	TEXT NOT NULL,
+	"registration_flag"	TEXT NOT NULL,
+	"updates"	TEXT NOT NULL,
+	"class_joined"	INTEGER,
+	"health_specialties"	INTEGER,
+	PRIMARY KEY("student_id")
+)
+CREATE TABLE "mothers" (
+	"mother_id"	INTEGER NOT NULL,
+	"firstname"	TEXT NOT NULL,
+	"middlename"	TEXT NOT NULL,
+	"lastname"	TEXT NOT NULL,
+	"phone_number"	TEXT NOT NULL,
+	"email"	TEXT NOT NULL,
+	"address"	TEXT NOT NULL,
+	"occupation"	TEXT NOT NULL,
+	PRIMARY KEY("mother_id")
+);
+
+CREATE TABLE "fathers" (
+	"father_id"	INTEGER NOT NULL,
+	"firstname"	TEXT NOT NULL,
+	"middlename"	TEXT NOT NULL,
+	"lastname"	TEXT NOT NULL,
+	"phone_number"	TEXT NOT NULL,
+	"email"	TEXT NOT NULL,
+	"address"	TEXT NOT NULL,
+	"occupation"	TEXT NOT NULL,
+	PRIMARY KEY("father_id")
+);
+
+CREATE TABLE "guardians" (
+	"guardian_id"	INTEGER NOT NULL,
+	"firstname"	TEXT NOT NULL,
+	"middlename"	TEXT NOT NULL,
+	"lastname"	TEXT NOT NULL,
+	"phone_number"	TEXT NOT NULL,
+	"email"	TEXT NOT NULL,
+	"address"	TEXT NOT NULL,
+	"occupation"	TEXT NOT NULL,
+	PRIMARY KEY("guardian_id")
+);
+
+
+
+CREATE TABLE "schoolfees" (
+	"student_id"	INTEGER NOT NULL,
+	"firstname"	TEXT NOT NULL,
+	"middlename"	TEXT NOT NULL,
+	"lastname"	TEXT NOT NULL,
+	"class"	TEXT NOT NULL,
+	"standard_fees"	TEXT NOT NULL,
+	"fees_agreed"	TEXT NOT NULL,
+	"deduction"	TEXT NOT NULL,
+	"paid_this_term"	TEXT NOT NULL,
+	"paid_in_total"	TEXT NOT NULL,
+	"balance_this_term"	TEXT NOT NULL,
+	"balance_in_total"	TEXT NOT NULL,
+	"latest_payment"	TEXT NOT NULL,
+	"reason_for_deduction"	TEXT NOT NULL,
+	"school_fees_flag"	TEXT NOT NULL,
+	"uniform_flag"	TEXT NOT NULL,
+	"academic_flag"	TEXT NOT NULL,
+	"registration_flag"	TEXT NOT NULL,
+	"update"	TEXT NOT NULL,
+	"term"	TEXT NOT NULL,
+	PRIMARY KEY("student_id")
+);
+
+CREATE TABLE "staff" (
+	"staff_id"	INTEGER NOT NULL,
+	"firstname"	TEXT NOT NULL,
+	"middlename"	TEXT NOT NULL,
+	"lastname"	TEXT NOT NULL,
+	"phone_number"	TEXT NOT NULL,
+	"email"	TEXT NOT NULL,
+	"address"	TEXT NOT NULL,
+	"salary"	TEXT NOT NULL,
+	"allowances"	TEXT NOT NULL,
+	"awards"	TEXT NOT NULL,
+	"earned_in_total"	TEXT NOT NULL,
+	"role"	TEXT NOT NULL,
+	"ranking"	TEXT NOT NULL,
+	"updates"	TEXT NOT NULL,
+	PRIMARY KEY("staff_id")
+);
+
+CREATE TABLE "more_expenditures" (
+	"expenditure_id"	INTEGER NOT NULL,
+	"name"	INTEGER NOT NULL,
+	"amount_spent"	INTEGER NOT NULL,
+	"month"	INTEGER NOT NULL,
+	"update"	INTEGER NOT NULL,
+	PRIMARY KEY("expenditure_id" AUTOINCREMENT)
+);
+
+CREATE TABLE "registration" (
+	"student_id"	INTEGER NOT NULL,
+	"intake_year"	TEXT NOT NULL,
+	"intake_term"	TEXT NOT NULL,
+	"registration_fee"	TEXT NOT NULL,
+	"amount_paid"	TEXT NOT NULL,
+	"balance"	TEXT NOT NULL,
+	"registration_flag"	TEXT NOT NULL,
+	"firstname"	TEXT NOT NULL,
+	"middlename"	TEXT NOT NULL,
+	"lastname"	TEXT NOT NULL
+);
+
+CREATE TABLE "uniform" (
+	"product_id"	INTEGER NOT NULL,
+	"tocked_this_term"	INTEGER NOT NULL,
+	"sold_this_term"	INTEGER NOT NULL,
+	"price_bought_each"	INTEGER NOT NULL,
+	"price_sold_each"	INTEGER NOT NULL,
+	"amount_gained"	INTEGER NOT NULL,
+	"amount_left"	INTEGER NOT NULL,
+	"term"	INTEGER NOT NULL,
+	PRIMARY KEY("product_id")
+);

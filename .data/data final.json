@@ -1,0 +1,4851 @@
+[
+{
+"num" : "1",
+
+    "admin_num" : "ICON/22/1142",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nsimbe Paul Beven",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256702085568"
+
+    },
+    "mother" : {
+        "contact" : "unset"
+
+    },
+    "guardian" : {
+         "contact" : "256753770782"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Full Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "600000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "600000"
+
+},
+{
+"num" : "2",
+
+    "admin_num" : "ICON/22/1143",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nambasa Eliana",
+
+    "address" : "Gayaza Bulami",
+
+    "father" : {
+        "contact" : "256775260179"
+
+    },
+    "mother" : {
+        "contact" : "256703592036"
+
+    },
+    "guardian" : {
+         "contact" : "256787621555"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "750000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "750000"
+
+},
+{
+"num" : "3",
+
+    "admin_num" : "ICON/22/1144",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Mbogo George Patton Mpadwa",
+
+    "address" : "Kitetikka",
+
+    "father" : {
+        "contact" : "256772923313"
+
+    },
+    "mother" : {
+        "contact" : "256702758388"
+
+    },
+    "guardian" : {
+         "contact" : "256775196102"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "11-Jan-22",
+
+        "ref_num" : "891",
+
+        "amount" : "440000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "0"
+
+},
+{
+"num" : "4",
+
+    "admin_num" : "ICON/22/1145",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Segawa Misheal Atwiine",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256786467687"
+
+    },
+    "mother" : {
+        "contact" : "256701928080"
+
+    },
+    "guardian" : {
+         "contact" : "256782772158"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "2-Jan-22",
+
+        "ref_num" : "840",
+
+        "amount" : "440000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "0"
+
+},
+{
+"num" : "5",
+
+    "admin_num" : "ICON/22/1146",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Semakula Genesis",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256752814039"
+
+    },
+    "mother" : {
+        "contact" : "256704564635"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "10-Jan-22",
+
+        "ref_num" : "862",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "240000"
+
+},
+{
+"num" : "6",
+
+    "admin_num" : "ICON/22/1147",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Kyewalabye Andrea",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256705775555"
+
+    },
+    "mother" : {
+        "contact" : "256771651819"
+
+    },
+    "guardian" : {
+         "contact" : "256754881566"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "6-Jan-22",
+
+        "ref_num" : "842",
+
+        "amount" : "40000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "400000"
+
+},
+{
+"num" : "7",
+
+    "admin_num" : "ICON/22/1148",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Mpagi Ambrose Carlos",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256701081203"
+
+    },
+    "mother" : {
+        "contact" : "256784336631"
+
+    },
+    "guardian" : {
+         "contact" : "256772635642"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "11-Jan-22",
+
+        "ref_num" : "881",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "240000"
+
+},
+{
+"num" : "8",
+
+    "admin_num" : "ICON/22/1149",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nuwagaba Victor",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256778008238"
+
+    },
+    "mother" : {
+        "contact" : "256771092338"
+
+    },
+    "guardian" : {
+         "contact" : "256781288126"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "400000",
+
+"payment_1" : {
+        "date" : "10-Jan-22",
+
+        "ref_num" : "867",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "200000"
+
+},
+{
+"num" : "9",
+
+    "admin_num" : "ICON/22/1150",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nansubuga Aaliya Alma",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256776422844"
+
+    },
+    "mother" : {
+        "contact" : "256708231267"
+
+    },
+    "guardian" : {
+         "contact" : "256705320594"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "17-Jan-22",
+
+        "ref_num" : "920",
+
+        "amount" : "300000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "140000"
+
+},
+{
+"num" : "10",
+
+    "admin_num" : "ICON/18/1010",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Mujwiga Abel Muganzi",
+
+    "address" : "Wamala",
+
+    "father" : {
+        "contact" : "256753682978"
+
+    },
+    "mother" : {
+        "contact" : "256704029560"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "P.3",
+
+    "Program" : "Boarding",
+
+    "old_bal" : "300000",
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "8-Jan-22",
+
+        "ref_num" : "846",
+
+        "amount" : "500000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "280000"
+
+},
+{
+"num" : "11",
+
+    "admin_num" : "ICON/21/1099",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nkurunziyiza Joshua",
+
+    "address" : "Bweyogerere",
+
+    "father" : {
+        "contact" : "256704267653"
+
+    },
+    "mother" : {
+        "contact" : "256750892516"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "Boarding",
+
+    "old_bal" : "110000",
+
+"term_1_fees_total" : "750000",
+
+"payment_1" : {
+        "date" : "8-Jan-22",
+
+        "ref_num" : "847",
+
+        "amount" : "80000"
+
+    },
+    "payment_2" : {
+        "date" : "18-Jan-22",
+
+       "ref_num" : "931",
+
+        "amount" :"100000"
+
+    },
+    "balance" :  "680000"
+
+},
+{
+"num" : "12",
+
+    "admin_num" : "ICON/20/1067",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Babuumba Steinerbarrows Aaron",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256702776070"
+
+    },
+    "mother" : {
+        "contact" : "256751048102"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "350000",
+
+"payment_1" : {
+        "date" : "8-Jan-22",
+
+        "ref_num" : "848",
+
+        "amount" : "150000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "200000"
+
+},
+{
+"num" : "13",
+
+    "admin_num" : "ICON/22/1152",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Kirabo Sharom",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256701305999"
+
+    },
+    "mother" : {
+        "contact" : "256785859425"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : 100000000,
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "0"
+
+},
+{
+"num" : "14",
+
+    "admin_num" : "ICON/20/1083",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Ssejjuuko Steven",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256774691037"
+
+    },
+    "mother" : {
+        "contact" : "unset"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : 100000000,
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "0"
+
+},
+{
+"num" : "15",
+
+    "admin_num" : "ICON/21/1132",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Atino Darlene",
+
+    "address" : "Nammere",
+
+    "father" : {
+        "contact" : "256775003669"
+
+    },
+    "mother" : {
+        "contact" : "256778885479"
+
+    },
+    "guardian" : {
+         "contact" : "256775084533"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "9-Jan-22",
+
+        "ref_num" : "849",
+
+        "amount" : "250000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "190000"
+
+},
+{
+"num" : "16",
+
+    "admin_num" : "ICON/22/1153",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nalubowa Mary Precious",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256755954620"
+
+    },
+    "mother" : {
+        "contact" : "256754045583"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "300000",
+
+"payment_1" : {
+        "date" : "9-Jan-22",
+
+        "ref_num" : "850",
+
+        "amount" : "120000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "180000"
+
+},
+{
+"num" : "17",
+
+    "admin_num" : "ICON/21/1130",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Muwonge Musa Shukrah",
+
+    "address" : "Mpererwe",
+
+    "father" : {
+        "contact" : "256704296960"
+
+    },
+    "mother" : {
+        "contact" : "256702388131"
+
+    },
+    "guardian" : {
+         "contact" : "256705280669"
+
+    },
+    "class" : "P.2",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "10-Jan-22",
+
+        "ref_num" : "866",
+
+        "amount" : "100000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "380000"
+
+},
+{
+"num" : "18",
+
+    "admin_num" : "ICON/21/1136",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Kokusiima Raneem",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256702825512"
+
+    },
+    "mother" : {
+        "contact" : "256771333621"
+
+    },
+    "guardian" : {
+         "contact" : "256775715208"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "9-Jan-22",
+
+        "ref_num" : "852",
+
+        "amount" : "250000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "230000"
+
+},
+{
+"num" : "19",
+
+    "admin_num" : "ICON/22/1154",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nalweyiso Gabriella Jane Frances",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256756861434"
+
+    },
+    "mother" : {
+        "contact" : "256708064692"
+
+    },
+    "guardian" : {
+         "contact" : "256782577184"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Full Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "600000",
+
+"payment_1" : {
+        "date" : "12-Jan-22",
+
+        "ref_num" : "893",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "400000"
+
+},
+{
+"num" : "20",
+
+    "admin_num" : "ICON/22/1155",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Namuyomba Kasozi Joshirah",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256700748806"
+
+    },
+    "mother" : {
+        "contact" : "256701837764"
+
+    },
+    "guardian" : {
+         "contact" : "256754040927"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "400000",
+
+"payment_1" : {
+        "date" : "17-Jan-22",
+
+        "ref_num" : "921",
+
+        "amount" : "50000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "350000"
+
+},
+{
+"num" : "21",
+
+    "admin_num" : "ICON/22/1156",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Ssonko Aggrey Robert",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256774708510"
+
+    },
+    "mother" : {
+        "contact" : "256782403121"
+
+    },
+    "guardian" : {
+         "contact" : "256772527738"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "350000",
+
+"payment_1" : {
+        "date" : "9-Jan-22",
+
+        "ref_num" : "859",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "350000"
+
+},
+{
+"num" : "22",
+
+    "admin_num" : "ICON/17/1002",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nabunjo Precious Noreen",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256704941200"
+
+    },
+    "mother" : {
+        "contact" : "256709788265"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "P.3",
+
+    "Program" : "Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "250000",
+
+"payment_1" : {
+        "date" : "9-Jan-22",
+
+        "ref_num" : "855",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "50000"
+
+},
+{
+"num" : "23",
+
+    "admin_num" : "ICON/20/1064",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nakkazi Maria Birungi",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256704941200"
+
+    },
+    "mother" : {
+        "contact" : "256709788265"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "250000",
+
+"payment_1" : {
+        "date" : "9-Jan-22",
+
+        "ref_num" : "856",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "50000"
+
+},
+{
+"num" : "24",
+
+    "admin_num" : "ICON/18/1015",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nantongo Precious Kisaakye",
+
+    "address" : "Nammere",
+
+    "father" : {
+        "contact" : "256704171461"
+
+    },
+    "mother" : {
+        "contact" : "256759620398"
+
+    },
+    "guardian" : {
+         "contact" : "256756074291"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "400000",
+
+"payment_1" : {
+        "date" : "9-Jan-22",
+
+        "ref_num" : "857",
+
+        "amount" : "250000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "150000"
+
+},
+{
+"num" : "25",
+
+    "admin_num" : "ICON/19/1056",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nanyonjo Rashan",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256752422695"
+
+    },
+    "mother" : {
+        "contact" : "256755163806"
+
+    },
+    "guardian" : {
+         "contact" : "256755465138"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "unset",
+
+    "old_bal" : "50000",
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "9-Jan-22",
+
+        "ref_num" : "858",
+
+        "amount" : "150000"
+
+    },
+    "payment_2" : {
+        "date" : "10-Jan-22",
+
+       "ref_num" : "870",
+
+        "amount" :"60000"
+
+    },
+    "balance" :  "320000"
+
+},
+{
+"num" : "26",
+
+    "admin_num" : "ICON/22/1157",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Kwesiga Marvin",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256776188386"
+
+    },
+    "mother" : {
+        "contact" : "2567082761334"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "600000",
+
+"payment_1" : {
+        "date" : "16-Jan-22",
+
+        "ref_num" : "935",
+
+        "amount" : "100000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "500000"
+
+},
+{
+"num" : "27",
+
+    "admin_num" : "ICON/22/1158",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Najjemba Precious",
+
+    "address" : "Kabaga",
+
+    "father" : {
+        "contact" : "256706915163"
+
+    },
+    "mother" : {
+        "contact" : "256756686376"
+
+    },
+    "guardian" : {
+         "contact" : "256707282272"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "360000",
+
+"payment_1" : {
+        "date" : "10-Jan-22",
+
+        "ref_num" : "868",
+
+        "amount" : "100000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "260000"
+
+},
+{
+"num" : "28",
+
+    "admin_num" : "ICON/20/1092",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nayiga Natasha",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "256752943745"
+
+    },
+    "guardian" : {
+         "contact" : "256701740265"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "10-Jan-22",
+
+        "ref_num" : "861",
+
+        "amount" : "150000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "290000"
+
+},
+{
+"num" : "29",
+
+    "admin_num" : "ICON/17/1005",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Mayanja Ronald Ozil",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256753704082"
+
+    },
+    "mother" : {
+        "contact" : "256752800130"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "P.2",
+
+    "Program" : "Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "500000",
+
+"payment_1" : {
+        "date" : "10-Jan-22",
+
+        "ref_num" : "863",
+
+        "amount" : "100000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "400000"
+
+},
+{
+"num" : "30",
+
+    "admin_num" : "ICON/20/1071",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Mulondo Joram",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256779852546"
+
+    },
+    "mother" : {
+        "contact" : "256771260004"
+
+    },
+    "guardian" : {
+         "contact" : "256789451268"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "10-Jan-22",
+
+        "ref_num" : "865",
+
+        "amount" : "50000"
+
+    },
+    "payment_2" : {
+        "date" : "21-Jan-22",
+
+       "ref_num" : "950",
+
+        "amount" :"300000"
+
+    },
+    "balance" :  "90000"
+
+},
+{
+"num" : "31",
+
+    "admin_num" : "ICON/22/1159",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Naginda Muhaisina",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256750313903"
+
+    },
+    "mother" : {
+        "contact" : "unset"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "10-Jan-22",
+
+        "ref_num" : "869",
+
+        "amount" : "120000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "320000"
+
+},
+{
+"num" : "32",
+
+    "admin_num" : "ICON/22/1160",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Ssemukanga Maria Rannie",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "25676699601"
+
+    },
+    "guardian" : {
+         "contact" : "256752178606"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "10-Jan-22",
+
+        "ref_num" : "871",
+
+        "amount" : "50000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "390000"
+
+},
+{
+"num" : "33",
+
+    "admin_num" : "ICON/22/1161",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Mbangire Kimeze Muzeeyi",
+
+    "address" : "Kalerwe",
+
+    "father" : {
+        "contact" : "256392949155"
+
+    },
+    "mother" : {
+        "contact" : "256706986077"
+
+    },
+    "guardian" : {
+         "contact" : "256706986077"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "12-Jan-22",
+
+        "ref_num" : "906",
+
+        "amount" : "100000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "340000"
+
+},
+{
+"num" : "34",
+
+    "admin_num" : "ICON/20/1065",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Yiga Aaron Moses",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256751740160"
+
+    },
+    "mother" : {
+        "contact" : "256706177488"
+
+    },
+    "guardian" : {
+         "contact" : "256705713073"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "10-Jan-22",
+
+        "ref_num" : "873",
+
+        "amount" : "150000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "330000"
+
+},
+{
+"num" : "35",
+
+    "admin_num" : "ICON/17/1007",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Mirembe Sarah Esther",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "256751540642"
+
+    },
+    "guardian" : {
+         "contact" : "256751540642"
+
+    },
+    "class" : "P.3",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "10-Jan-22",
+
+        "ref_num" : "874",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "280000"
+
+},
+{
+"num" : "36",
+
+    "admin_num" : "ICON/21/1128",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Jabero Andrew Samuel Owekali",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256782970595"
+
+    },
+    "mother" : {
+        "contact" : "256782243490"
+
+    },
+    "guardian" : {
+         "contact" : "256782225369"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "10-Jan-22",
+
+        "ref_num" : "875",
+
+        "amount" : "100000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "340000"
+
+},
+{
+"num" : "37",
+
+    "admin_num" : "ICON/21/1141",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nalumu Husnah",
+
+    "address" : "Gayaza Bulami",
+
+    "father" : {
+        "contact" : "256740371327"
+
+    },
+    "mother" : {
+        "contact" : "256702449393"
+
+    },
+    "guardian" : {
+         "contact" : "256701268606"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "850000",
+
+"payment_1" : {
+        "date" : "10-Jan-22",
+
+        "ref_num" : "878",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "650000"
+
+},
+{
+"num" : "38",
+
+    "admin_num" : "ICON/18/1013",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Namubiru Ciara Abigail",
+
+    "address" : "Gayaza Bulami",
+
+    "father" : {
+        "contact" : "256701080011"
+
+    },
+    "mother" : {
+        "contact" : "unset"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "unset",
+
+    "Program" : "Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "600000",
+
+"payment_1" : {
+        "date" : "10-Jan-22",
+
+        "ref_num" : "879",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "400000"
+
+},
+{
+"num" : "39",
+
+    "admin_num" : "ICON/20/1089",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nalubowa Geogina",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256700603690"
+
+    },
+    "mother" : {
+        "contact" : "256774458482"
+
+    },
+    "guardian" : {
+         "contact" : "256712923530"
+
+    },
+    "class" : "unset",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "440000"
+
+},
+{
+"num" : "40",
+
+    "admin_num" : "ICON/21/1109",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Adonia Louis Patrick Lupayi",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256788446683"
+
+    },
+    "mother" : {
+        "contact" : "256770709018"
+
+    },
+    "guardian" : {
+         "contact" : "256786893787"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "11-Jan-22",
+
+        "ref_num" : "881",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "280000"
+
+},
+{
+"num" : "41",
+
+    "admin_num" : "ICON/21/1110",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Tricia Kiden Victor",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256788446683"
+
+    },
+    "mother" : {
+        "contact" : "256770709018"
+
+    },
+    "guardian" : {
+         "contact" : "256786893787"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "11-Jan-22",
+
+        "ref_num" : "885",
+
+        "amount" : "220000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "220000"
+
+},
+{
+"num" : "42",
+
+    "admin_num" : "ICON/19/1035",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Namuswe Abgail Kyeswa",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256773453933"
+
+    },
+    "mother" : {
+        "contact" : "256702437449"
+
+    },
+    "guardian" : {
+         "contact" : "256775956266"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "11-Jan-22",
+
+        "ref_num" : "886",
+
+        "amount" : "150000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "330000"
+
+},
+{
+"num" : "43",
+
+    "admin_num" : "ICON/19/1052",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Namubiru Asher Lorena",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256701335714"
+
+    },
+    "mother" : {
+        "contact" : "256757611585"
+
+    },
+    "guardian" : {
+         "contact" : "256701686999"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "11-Jan-22",
+
+        "ref_num" : "887",
+
+        "amount" : "300000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "180000"
+
+},
+{
+"num" : "44",
+
+    "admin_num" : "ICON",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Ssebadduka Christian",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "256757611585"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "Full Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "600000",
+
+"payment_1" : {
+        "date" : "11-Jan-22",
+
+        "ref_num" : "888",
+
+        "amount" : "250000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "350000"
+
+},
+{
+"num" : "45",
+
+    "admin_num" : "ICON/20/1080",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nantume Lillian Ketra",
+
+    "address" : "Mpererwe",
+
+    "father" : {
+        "contact" : "256772931826"
+
+    },
+    "mother" : {
+        "contact" : "256756857084"
+
+    },
+    "guardian" : {
+         "contact" : "256755819095"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "800000",
+
+"payment_1" : {
+        "date" : "11-Jan-22",
+
+        "ref_num" : "889",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "600000"
+
+},
+{
+"num" : "46",
+
+    "admin_num" : "ICON/20/1163",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Jjingo Joshua Jonathan",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256703138293"
+
+    },
+    "mother" : {
+        "contact" : "256759363601"
+
+    },
+    "guardian" : {
+         "contact" : "256772223217"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "300000",
+
+"payment_1" : {
+        "date" : "11-Jan-22",
+
+        "ref_num" : "890",
+
+        "amount" : "70000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "230000"
+
+},
+{
+"num" : "47",
+
+    "admin_num" : "ICON/18/1016",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Ssessanga Brandon Rogers",
+
+    "address" : "Kalagi",
+
+    "father" : {
+        "contact" : "256703064801"
+
+    },
+    "mother" : {
+        "contact" : "256701544740"
+
+    },
+    "guardian" : {
+         "contact" : "256752075362"
+
+    },
+    "class" : "P.2",
+
+    "Program" : "Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "600000",
+
+"payment_1" : {
+        "date" : "11-Jan-22",
+
+        "ref_num" : "883",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "400000"
+
+},
+{
+"num" : "48",
+
+    "admin_num" : "ICON/18/1029",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Biyinzika Isaiah Lugemwa ",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256775715208"
+
+    },
+    "mother" : {
+        "contact" : "256785586887"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "P.2",
+
+    "Program" : "unset",
+
+    "old_bal" : "130000",
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "610000"
+
+},
+{
+"num" : "49",
+
+    "admin_num" : "ICON/20/1063",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Kuteesa John Israel Khan",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256775715208"
+
+    },
+    "mother" : {
+        "contact" : "256785586887"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Full Day",
+
+    "old_bal" : "130000",
+
+"term_1_fees_total" : "500000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "630000"
+
+},
+{
+"num" : "50",
+
+    "admin_num" : "ICON/21/1137",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Mulungi Jeremiah",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256772851825"
+
+    },
+    "mother" : {
+        "contact" : "256750699902"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "P.2",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "480000"
+
+},
+{
+"num" : "51",
+
+    "admin_num" : "ICON/20/1091",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Ssenyonga Daniel",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256701713603"
+
+    },
+    "mother" : {
+        "contact" : "256706719395"
+
+    },
+    "guardian" : {
+         "contact" : "256782739841"
+
+    },
+    "class" : "P.2",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "400000",
+
+"payment_1" : {
+        "date" : "12-Jan-22",
+
+        "ref_num" : "894",
+
+        "amount" : "400000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "0"
+
+},
+{
+"num" : "52",
+
+    "admin_num" : "ICON/21/1121",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Mulyowa Davis",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256701713603"
+
+    },
+    "mother" : {
+        "contact" : "256706719395"
+
+    },
+    "guardian" : {
+         "contact" : "256708273984"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "400000",
+
+"payment_1" : {
+        "date" : "19-Jan-22",
+
+        "ref_num" : "937",
+
+        "amount" : "150000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "250000"
+
+},
+{
+"num" : "53",
+
+    "admin_num" : "ICON/22/1164",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Ainomugisha Aileran",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256700893074"
+
+    },
+    "mother" : {
+        "contact" : "256702115116"
+
+    },
+    "guardian" : {
+         "contact" : "256704328437"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "440000"
+
+},
+{
+"num" : "54",
+
+    "admin_num" : "ICON",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Ssemanda Faishari",
+
+    "address" : "unset",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "unset"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "400000",
+
+"payment_1" : {
+        "date" : "19-Jan-22",
+
+        "ref_num" : "943",
+
+        "amount" : "250000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "150000"
+
+},
+{
+"num" : "55",
+
+    "admin_num" : "ICON",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Bukenya Shamuran",
+
+    "address" : "unset",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "unset"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "400000",
+
+"payment_1" : {
+        "date" : "19-Jan-22",
+
+        "ref_num" : "945",
+
+        "amount" : "250000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "150000"
+
+},
+{
+"num" : "56",
+
+    "admin_num" : "ICON/22/1166",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Muwanguzi Travis",
+
+    "address" : "Namulonge",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "256701853393"
+
+    },
+    "guardian" : {
+         "contact" : "256701112212"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "750000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "750000"
+
+},
+{
+"num" : "57",
+
+    "admin_num" : "ICON/22/1165",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Kanyanya Mulungi Success",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256789494119"
+
+    },
+    "mother" : {
+        "contact" : "256784223880"
+
+    },
+    "guardian" : {
+         "contact" : "256751603265"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "400000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "400000"
+
+},
+{
+"num" : "58",
+
+    "admin_num" : "ICON/20/1075",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Kazibwe Quraish",
+
+    "address" : "Kawaala",
+
+    "father" : {
+        "contact" : "256783442259"
+
+    },
+    "mother" : {
+        "contact" : "256782430797"
+
+    },
+    "guardian" : {
+         "contact" : "256782834445"
+
+    },
+    "class" : "P.3",
+
+    "Program" : "Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "750000",
+
+"payment_1" : {
+        "date" : "12-Jan-22",
+
+        "ref_num" : "904",
+
+        "amount" : "450000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "300000"
+
+},
+{
+"num" : "59",
+
+    "admin_num" : "ICON/21/1167",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Zziwa Shayan",
+
+    "address" : "Kawaala",
+
+    "father" : {
+        "contact" : "2.56783E+11"
+
+    },
+    "mother" : {
+        "contact" : "256782430797"
+
+    },
+    "guardian" : {
+         "contact" : "256782834445"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "750000",
+
+"payment_1" : {
+        "date" : "12-Jan-22",
+
+        "ref_num" : "905",
+
+        "amount" : "550000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "200000"
+
+},
+{
+"num" : "60",
+
+    "admin_num" : "ICON/20/1077",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Sibo Elizabeth",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "256751322373"
+
+    },
+    "guardian" : {
+         "contact" : "256755089525"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "300000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "300000"
+
+},
+{
+"num" : "61",
+
+    "admin_num" : "ICON/20/1084",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Mukisa Emmanuella",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256705022743"
+
+    },
+    "mother" : {
+        "contact" : "256751322373"
+
+    },
+    "guardian" : {
+         "contact" : "256704347948"
+
+    },
+    "class" : "P.3",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "300000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "300000"
+
+},
+{
+"num" : "62",
+
+    "admin_num" : "ICON/22/1168",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nazziwa Jasmine",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256702782693"
+
+    },
+    "mother" : {
+        "contact" : "256757937440"
+
+    },
+    "guardian" : {
+         "contact" : "256709827475"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "440000"
+
+},
+{
+"num" : "63",
+
+    "admin_num" : "ICON/20/1074",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Watiti Bashir",
+
+    "address" : "Ssekanyonyi",
+
+    "father" : {
+        "contact" : "256701070691"
+
+    },
+    "mother" : {
+        "contact" : "256705170915"
+
+    },
+    "guardian" : {
+         "contact" : "256751034296"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "300000",
+
+"payment_1" : {
+        "date" : "16-Jan-22",
+
+        "ref_num" : "910",
+
+        "amount" : "300000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "0"
+
+},
+{
+"num" : "64",
+
+    "admin_num" : "ICON/22/1169",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Watiti Amar",
+
+    "address" : "Ssekanyonyi",
+
+    "father" : {
+        "contact" : "256701070691"
+
+    },
+    "mother" : {
+        "contact" : "256705170915"
+
+    },
+    "guardian" : {
+         "contact" : "256751034296"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "300000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "300000"
+
+},
+{
+"num" : "65",
+
+    "admin_num" : "ICON/22/1170",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Mirembe Divine Mellane",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256753836167"
+
+    },
+    "mother" : {
+        "contact" : "256755877501"
+
+    },
+    "guardian" : {
+         "contact" : "256703956664"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "16-Jan-22",
+
+        "ref_num" : "911",
+
+        "amount" : "250000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "230000"
+
+},
+{
+"num" : "66",
+
+    "admin_num" : "ICON/19/1047",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Sserusamba Corine",
+
+    "address" : "Nansana",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "256752150245"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "500000",
+
+"payment_1" : {
+        "date" : "16-Jan-22",
+
+        "ref_num" : "912",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "300000"
+
+},
+{
+"num" : "67",
+
+    "admin_num" : "ICON/22/1171",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nassali Fatimah Mayanja",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256779656646"
+
+    },
+    "mother" : {
+        "contact" : "256708987577"
+
+    },
+    "guardian" : {
+         "contact" : "256783638891"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "350000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "350000"
+
+},
+{
+"num" : "68",
+
+    "admin_num" : "ICON/19/1055",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Kiwalabye Gloria Nayiimu",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "unset"
+
+    },
+    "guardian" : {
+         "contact" : "256759413226"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "16-Jan-22",
+
+        "ref_num" : "914",
+
+        "amount" : "150000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "330000"
+
+},
+{
+"num" : "69",
+
+    "admin_num" : "ICON/19/1054",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Mukisa Ryan",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "unset"
+
+    },
+    "guardian" : {
+         "contact" : "256752343085"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "16-Jan-22",
+
+        "ref_num" : "915",
+
+        "amount" : "150000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "330000"
+
+},
+{
+"num" : "70",
+
+    "admin_num" : "ICON/22/1172",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Kiwalabye Ellynathan",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256756840175"
+
+    },
+    "mother" : {
+        "contact" : "unset"
+
+    },
+    "guardian" : {
+         "contact" : "256774458482"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "17-Jan-22",
+
+        "ref_num" : "916",
+
+        "amount" : "150000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "330000"
+
+},
+{
+"num" : "71",
+
+    "admin_num" : "ICON/21/1177",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Wakooli Favour",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256782531705"
+
+    },
+    "mother" : {
+        "contact" : "256789718156"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "P.3",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "17-Jan-22",
+
+        "ref_num" : "917",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "280000"
+
+},
+{
+"num" : "72",
+
+    "admin_num" : "ICON/19/1050",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Mandu Emmanuel",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256782531705"
+
+    },
+    "mother" : {
+        "contact" : "256789718156"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "17-Jan-22",
+
+        "ref_num" : "918",
+
+        "amount" : "290000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "190000"
+
+},
+{
+"num" : "73",
+
+    "admin_num" : "ICON/22/1173",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Madaali Glorious",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256752729868"
+
+    },
+    "mother" : {
+        "contact" : "256701962314"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "440000"
+
+},
+{
+"num" : "74",
+
+    "admin_num" : "ICON/21/1090",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Madaali Blessing ",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256752729868"
+
+    },
+    "mother" : {
+        "contact" : "256701962314"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "440000"
+
+},
+{
+"num" : "75",
+
+    "admin_num" : "ICON/21/1099",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Madaali Precious",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256752729868"
+
+    },
+    "mother" : {
+        "contact" : "256701962314"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "440000"
+
+},
+{
+"num" : "76",
+
+    "admin_num" : "ICON/20/1079",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Ssemwanga Eric",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256752937656"
+
+    },
+    "mother" : {
+        "contact" : "256704280480"
+
+    },
+    "guardian" : {
+         "contact" : "256755291467"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "17-Jan-22",
+
+        "ref_num" : "922",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "240000"
+
+},
+{
+"num" : "77",
+
+    "admin_num" : "ICON/20/1078",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nabaggala Bright",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256705737009"
+
+    },
+    "mother" : {
+        "contact" : "256700616210"
+
+    },
+    "guardian" : {
+         "contact" : "256752749686"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "unset",
+
+    "old_bal" : "50000",
+
+"term_1_fees_total" : "400000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "450000"
+
+},
+{
+"num" : "78",
+
+    "admin_num" : "ICON/21/1096",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Sserunjogi Benjamin",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256705737009"
+
+    },
+    "mother" : {
+        "contact" : "256700616210"
+
+    },
+    "guardian" : {
+         "contact" : "256752749686"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "unset",
+
+    "old_bal" : "50000",
+
+"term_1_fees_total" : "400000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "450000"
+
+},
+{
+"num" : "79",
+
+    "admin_num" : "ICON/20/1073",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nakaziro Jenifer Grace",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "256703067381"
+
+    },
+    "guardian" : {
+         "contact" : "256755590422"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "340000",
+
+"payment_1" : {
+        "date" : "17-Jan-22",
+
+        "ref_num" : "923",
+
+        "amount" : "60000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "280000"
+
+},
+{
+"num" : "80",
+
+    "admin_num" : "ICON/22/1174",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Namala Mariam Teckla",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256773119242"
+
+    },
+    "mother" : {
+        "contact" : "256783182336"
+
+    },
+    "guardian" : {
+         "contact" : "256773119242"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "480000"
+
+},
+{
+"num" : "81",
+
+    "admin_num" : "ICON/22/1075",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Kisitu Kelvis Killian",
+
+    "address" : "Lusanja",
+
+    "father" : {
+        "contact" : "256703264961"
+
+    },
+    "mother" : {
+        "contact" : "256703569056"
+
+    },
+    "guardian" : {
+         "contact" : "256773168634"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "300000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "300000"
+
+},
+{
+"num" : "82",
+
+    "admin_num" : "ICON/22/1176",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Kiwalabye Elvis",
+
+    "address" : "Lusanja",
+
+    "father" : {
+        "contact" : "256703264961"
+
+    },
+    "mother" : {
+        "contact" : "256703569056"
+
+    },
+    "guardian" : {
+         "contact" : "256773168634"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "300000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "300000"
+
+},
+{
+"num" : "83",
+
+    "admin_num" : "ICON/19/1036",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nantaba Alexis Christah",
+
+    "address" : "Kalagi",
+
+    "father" : {
+        "contact" : "256784912802"
+
+    },
+    "mother" : {
+        "contact" : "256782934501"
+
+    },
+    "guardian" : {
+         "contact" : "256703064801"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "500000",
+
+"payment_1" : {
+        "date" : "17-Jan-22",
+
+        "ref_num" : "926",
+
+        "amount" : "200000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "300000"
+
+},
+{
+"num" : "84",
+
+    "admin_num" : "ICON/21/1133",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Ssessanga Randy",
+
+    "address" : "Kalagi",
+
+    "father" : {
+        "contact" : "256776533001"
+
+    },
+    "mother" : {
+        "contact" : "256758146553"
+
+    },
+    "guardian" : {
+         "contact" : "256757044130"
+
+    },
+    "class" : "P.1",
+
+    "Program" : "Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "700000",
+
+"payment_1" : {
+        "date" : "17-Jan-22",
+
+        "ref_num" : "927",
+
+        "amount" : "150000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "550000"
+
+},
+{
+"num" : "85",
+
+    "admin_num" : "ICON/20/1069",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nakiwala Patra",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256772337510"
+
+    },
+    "mother" : {
+        "contact" : "256708671549"
+
+    },
+    "guardian" : {
+         "contact" : "256783807465"
+
+    },
+    "class" : "Middle",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "300000",
+
+"payment_1" : {
+        "date" : "17-Jan-22",
+
+        "ref_num" : "929",
+
+        "amount" : "100000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "200000"
+
+},
+{
+"num" : "86",
+
+    "admin_num" : "ICON/20/1070",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Namatovu Nahiya",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256753832548"
+
+    },
+    "mother" : {
+        "contact" : "753182641256"
+
+    },
+    "guardian" : {
+         "contact" : "256754251016"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "18-Jan-22",
+
+        "ref_num" : "930",
+
+        "amount" : "100000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "340000"
+
+},
+{
+"num" : "87",
+
+    "admin_num" : "ICON/22/1178",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Muwonge Shone Kiwalabye",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "unset"
+
+    },
+    "guardian" : {
+         "contact" : "unset"
+
+    },
+    "class" : "unset",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "300000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "300000"
+
+},
+{
+"num" : "88",
+
+    "admin_num" : "ICON/22/1179",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nambusi Swaburah",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256793720109"
+
+    },
+    "mother" : {
+        "contact" : "962777870623"
+
+    },
+    "guardian" : {
+         "contact" : "256770695163"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "18-Jan-22",
+
+        "ref_num" : "933",
+
+        "amount" : "180000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "260000"
+
+},
+{
+"num" : "89",
+
+    "admin_num" : "ICON/18/1014",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Kalungi Patrick Morgan",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256782777315"
+
+    },
+    "mother" : {
+        "contact" : "256778343061"
+
+    },
+    "guardian" : {
+         "contact" : "256783744417"
+
+    },
+    "class" : "P.2",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "480000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "480000"
+
+},
+{
+"num" : "90",
+
+    "admin_num" : "ICON/22/1181",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Olyema Ana",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "unset"
+
+    },
+    "guardian" : {
+         "contact" : "256789718156"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "19-Jan-22",
+
+        "ref_num" : "936",
+
+        "amount" : "400000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "40000"
+
+},
+{
+"num" : "91",
+
+    "admin_num" : "ICON/22/1182",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Jjunju Jonathan",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256787839266"
+
+    },
+    "mother" : {
+        "contact" : "256770695163"
+
+    },
+    "guardian" : {
+         "contact" : "962795784816"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "400000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "400000"
+
+},
+{
+"num" : "92",
+
+    "admin_num" : "ICON/22/1183",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Ntale Joel",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256787839266"
+
+    },
+    "mother" : {
+        "contact" : "256770695163"
+
+    },
+    "guardian" : {
+         "contact" : "962795784816"
+
+    },
+    "class" : "P.2",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "400000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "400000"
+
+},
+{
+"num" : "93",
+
+    "admin_num" : "ICON/22/1184",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Mulungi Abigail",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256756683325"
+
+    },
+    "mother" : {
+        "contact" : "256782232396"
+
+    },
+    "guardian" : {
+         "contact" : "256759281672"
+
+    },
+    "class" : "Baby",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "440000"
+
+},
+{
+"num" : "94",
+
+    "admin_num" : "ICON/17/1003",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Nayiga Juliet Favour",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "unset"
+
+    },
+    "guardian" : {
+         "contact" : "256752343085"
+
+    },
+    "class" : "P.3",
+
+    "Program" : "Boarding",
+
+    "old_bal" : "770000",
+
+"term_1_fees_total" : "750000",
+
+"payment_1" : {
+        "date" : "20-Jan-22",
+
+        "ref_num" : "947",
+
+        "amount" : "250000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "1270000"
+
+},
+{
+"num" : "95",
+
+    "admin_num" : "ICON/18/1012",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Namuyiga Ronitah",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "256772622979"
+
+    },
+    "mother" : {
+        "contact" : "256778036747"
+
+    },
+    "guardian" : {
+         "contact" : "256704158064"
+
+    },
+    "class" : "P.2",
+
+    "Program" : "unset",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "350000",
+
+"payment_1" : {
+        "date" : "20-Jan-22",
+
+        "ref_num" : "946",
+
+        "amount" : "120000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "230000"
+
+},
+{
+"num" : "96",
+
+    "admin_num" : "ICON/22/1162",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Musimenta Perry",
+
+    "address" : "Nammere",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "unset"
+
+    },
+    "guardian" : {
+         "contact" : "256706779771"
+
+    },
+    "class" : "Top",
+
+    "Program" : "Half Day",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "440000",
+
+"payment_1" : {
+        "date" : "10-Jan-22",
+
+        "ref_num" : "876",
+
+        "amount" : "440000"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "0"
+
+},
+{
+"num" : "97",
+
+    "admin_num" : "ICON/18/1020",
+
+    "sch_pay_code" : "unset",
+
+    "name" : "Ntabi Lorine",
+
+    "address" : "Kanyanya",
+
+    "father" : {
+        "contact" : "unset"
+
+    },
+    "mother" : {
+        "contact" : "971586163166"
+
+    },
+    "guardian" : {
+         "contact" : "256750636127"
+
+    },
+    "class" : "P.2",
+
+    "Program" : "Boarding",
+
+    "old_bal" : 0,
+
+"term_1_fees_total" : "850000",
+
+"payment_1" : {
+        "date" : "unset",
+
+        "ref_num" : "unset",
+
+        "amount" : "unset"
+
+    },
+    "payment_2" : {
+        "date" : "unset",
+
+       "ref_num" : "unset",
+
+        "amount" :"unset"
+
+    },
+    "balance" :  "850000"
+}
+]

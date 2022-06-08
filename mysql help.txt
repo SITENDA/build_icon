@@ -1,0 +1,30 @@
+https://stackoverflow.com/questions/50093144/mysql-8-0-client-does-not-support-authentication-protocol-requested-by-server
+
+C:\ProgramData\MySQL\MySQL Server 8.0\Data
+
+SET GLOBAL require_secure_transport=OFF;
+
+
+Execute the following query in MYSQL Workbench
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Bakiriisa1.';
+
+Where root as your user localhost as your URL and password as your password
+
+Then run this query to refresh privileges:
+
+flush privileges;
+
+Try connecting using node after you do so.
+
+If that doesn't work, try it without @'localhost' part.
+
+
+
+
+
+
+
+
+
+https://pitstop.manageengine.com/portal/en/kb/articles/how-to-fix-connections-using-insecure-transport-are-prohibited-while-require-secure-transport-on-in-mysql

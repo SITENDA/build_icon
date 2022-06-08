@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        html{
+            width: 100%;
+            height: 100%;
+        }
+ 
+        body{
+            margin: 0px;
+            width: 100%;
+            height: 100%;
+
+        }
+        .sidenav{
+            width:23%;
+            height:inherit;
+            background-color:rgb(136, 101, 70);
+            float: left;
+            
+        }
+        .main{
+            width: 77%;
+            height: inherit;
+            float: left;
+        }
+        .topbar{
+            width: 100%;
+            height: 54px;
+            background-color: rgb(93,72,54);
+            padding-top: 1%;
+            padding-left: 1%;
+        }
+        .sch-name-slot{
+            width: 100%;
+            height: 60px;
+            background-color: rgb(34,25,17);
+            text-align: center;
+            padding-top: 2%;
+        }
+        .sidenav-elem{
+            width: 100%;
+            height: 50px;
+            padding-left:5%;
+        }
+        .text{
+            font-family: Source Sans Pro, sans-serif;
+            font-size: 16px;
+            color: white;
+        }
+        .sch-title{
+            font-family: Source Sans Pro, sans-serif;
+            font-size: 16px;
+            color: white;
+            font-weight: bold;
+        }
+       
+        .rest-of-sidenav{
+            width: 100%;
+            height: 95%;
+        }
+        .main-box{
+            width: 100%;
+            height: 95%;    
+        }
+        .main-div{
+            margin-left: 2%;
+            margin-right: 2%;
+            margin-top: 2%;
+            margin-bottom: 2%;
+            width: 96%;
+            height: 93%;
+            background-color:rgb(136, 101, 70);
+            border-radius: 0.5%;
+            padding-top: 1px;   
+        }
+
+        .table-div{
+            background-color: rgb(29,29,43);
+            margin: 2%;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+
+        table{
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 0 15px;
+        }
+        th, td{
+            text-align: center;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgb(136, 101, 70);
+        }
+        tr{
+            height: 20px;
+            margin: 10px;
+            padding: 2%;
+            /* border: 5px; */
+            
+            
+        }
+        .cell1{
+            border-right: 1px solid rgb(172, 172, 177);
+        }
+
+
+    </style>
+</head>
+
+<body>
+
+    <!--Sidenav content here-->
+
+    <div class="sidenav">
+        <div class="sch-name-slot">
+         <div class="text">ICON </div><div class="text"> Nursery & Primary School</div>
+        </div>
+
+        <div class="rest-of-sidenav">
+            <div class="sidenav-elem"> <div class="text">Home</div>  </div>
+
+            <div class="sidenav-elem"> <div class="text">Dashboard</div> </div>
+
+            <div class="sidenav-elem"> <div class="text">Staff</div> </div>
+
+            <div class="sidenav-elem"> <div class="text">Uniform</div> </div>
+
+            <div class="sidenav-elem"> <div class="text">School fees</div> </div>
+
+            <div class="sidenav-elem"> <div class="text">Registration</div> </div>
+
+            <div class="sidenav-elem"> <div class="text">Chat Room</div> </div>
+
+            <div class="sidenav-elem"> <div class="text">Salaries</div> </div>
+
+            <div class="sidenav-elem"> <div class="text">Statistics</div> </div>
+
+            <div class="sidenav-elem"> <div class="text">Settings</div> </div>
+        </div>
+
+        
+
+        
+    </div>
+
+   <!-- Main content here -->
+
+    <div class="main">
+        <div class="topbar">
+            <div class="text">Search</div>
+        </div>
+        <div class="main-box">
+            <div class="main-div">
+            
+                <div class="table-div">
+                    <table>
+                    <tr>
+                        <th class="cell1" scope="col"><div class="text">Name</div></th>
+                        <th scope="col"><div class="text">Address</div></th>
+                        <th scope="col"><div class="text">Allowances</div></th>
+                        <th scope="col"><div class="text">Awards</div></th>
+                        <th scope="col"><div class="text">Salary</div></th>
+                        <th scope="col"><div class="text">Rank</div></th>
+                        <th scope="col"><div class="text">Role</div></th>
+                        <th scope="col"><div class="text">Update</div></th>
+                        <th scope="col"><div class="text">Total earned</div></th>
+                    </tr>
+                    <tr>
+                        <td class="cell1"><div class="text">ICON/22/1142</div></td>
+                        <td><div class="text">Nsimbe Paul Beven</div></td>
+                        <td><div class="text">Kanyanya</div></td>
+                        <td><div class="text">256702085568</div></td>
+                        <td><div class="text">Full Day</div></td>
+                        <td><div class="text">256753770782</div></td>
+                        <td><div class="text">Top</div></td>
+                        <td><div class="text">750000</div></td>
+                        <td><div class="text">600000</div></td>
+                    </tr><tr>
+                        <td class="cell1"><div class="text">ICON/22/1142</div></td>
+                        <td><div class="text">Nsimbe Paul Beven</div></td>
+                        <td><div class="text">Kanyanya</div></td>
+                        <td><div class="text">256702085568</div></td>
+                        <td><div class="text">Full Day</div></td>
+                        <td><div class="text">256753770782</div></td>
+                        <td><div class="text">Top</div></td>
+                        <td><div class="text">750000</div></td>
+                        <td><div class="text">600000</div></td>
+                    </tr>
+                    <tr>
+                        <td class="cell1"><div class="text">ICON/22/1142</div></td>
+                        <td><div class="text">Nsimbe Paul Beven</div></td>
+                        <td><div class="text">Kanyanya</div></td>
+                        <td><div class="text">256702085568</div></td>
+                        <td><div class="text">Full Day</div></td>
+                        <td><div class="text">256753770782</div></td>
+                        <td><div class="text">Top</div></td>
+                        <td><div class="text">750000</div></td>
+                        <td><div class="text">600000</div></td>
+                    </tr>
+                    <tr>
+                        <td class="cell1"><div class="text">ICON/22/1142</div></td>
+                        <td><div class="text">Nsimbe Paul Beven</div></td>
+                        <td><div class="text">Kanyanya</div></td>
+                        <td><div class="text">256702085568</div></td>
+                        <td><div class="text">Full Day</div></td>
+                        <td><div class="text">256753770782</div></td>
+                        <td><div class="text">Top</div></td>
+                        <td><div class="text">750000</div></td>
+                        <td><div class="text">600000</div></td>
+                    </tr>
+                    <tr>
+                        <td class="cell1"><div class="text">ICON/22/1142</div></td>
+                        <td><div class="text">Nsimbe Paul Beven</div></td>
+                        <td><div class="text">Kanyanya</div></td>
+                        <td><div class="text">256702085568</div></td>
+                        <td><div class="text">Full Day</div></td>
+                        <td><div class="text">256753770782</div></td>
+                        <td><div class="text">Top</div></td>
+                        <td><div class="text">750000</div></td>
+                        <td><div class="text">600000</div></td>
+                    </tr><tr>
+                        <td class="cell1"><div class="text">ICON/22/1142</div></td>
+                        <td><div class="text">Nsimbe Paul Beven</div></td>
+                        <td><div class="text">Kanyanya</div></td>
+                        <td><div class="text">256702085568</div></td>
+                        <td><div class="text">Full Day</div></td>
+                        <td><div class="text">256753770782</div></td>
+                        <td><div class="text">Top</div></td>
+                        <td><div class="text">750000</div></td>
+                        <td><div class="text">600000</div></td>
+                    </tr>
+
+
+
+
+
+                </table>
+                </div>
+
+                
+
+            </div>
+
+        </div>
+        
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,59 @@
+// Required data: phone
+// Optional data: none
+var see = "none";
+// function getResult(err, data) {
+//   if (err) throw err;
+//   console.log("result start");
+//   see  = JSON.stringify(data);
+//    console.log(see);
+//   console.log("result done");
+// }
+
+
+handlers.database = ()=>{
+
+    // var con = mysql.createConnection({
+    //   host: "localhost",
+    //   user: "root",
+    //   password: "Bakiriisa1.",
+    //   database: "classicmodels"
+    // });
+
+    var config = {
+      host: "localhost",
+      user: "root",
+      password: "Bakiriisa1.",
+      database: "classicmodels"
+    };
+    // ,
+    //   ssl: {
+    //       ca: fs.readFileSync(path.join(__dirname,'/cert.pem')),
+    //       key: fs.readFileSync(path.join(__dirname,'/ca_public.pem')),
+    //   }
+    var data;
+    var err;
+
+    var m = 0;
+    let query = "SELECT city FROM customers";
+
+    let res = getDBData(config, query);
+    console.log(res);
+    //var output = syncsql.mysql(config, query);
+    //console.log(output.data.rows);
+
+    //       con.connect(function(err, data) {
+    //         if (err) throw err;
+    //         console.log("Connected!");
+    //         con.query(query, (err, data)=>{
+    //           if (err) throw err;
+    //           console.log();
+    //           console.log();
+    //           getResult(err, data);
+              
+    //         });
+
+            
+    // });
+
+    
+};

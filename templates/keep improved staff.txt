@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="../public/style.css" />
+</head>
+
+<body>
+
+    <!--Sidenav content here-->
+
+    <div class="sidenav">
+        <div class="sch-name-slot">
+         <div class="text">ICON </div><div class="text"> Nursery & Primary School</div>
+        </div>
+
+        <div class="rest-of-sidenav">
+            <div class="sidenav-elem"> <div class="text">Home</div>  </div>
+
+            <div class="sidenav-elem"> <div class="text">Dashboard</div> </div>
+
+            <div class="sidenav-elem">  <img class="icon" src="../public/assets/staff.png" alt="Staff"> <span class="text">Staff</span> </div>
+
+            <div class="sidenav-elem"> <img class="icon" src="../public/assets/uniform.png" alt="Uniform"> <span class="text">Uniform</span> </div>
+
+            <div class="sidenav-elem"> <img class="icon" src="../public/assets/school fees.png" alt="School fees"> <span class="text">School fees</span> </div>
+
+            <div class="sidenav-elem"> <div class="text">Registration</div> </div>
+
+            <div class="sidenav-elem"> <div class="text">Chat Room</div> </div>
+
+            <div class="sidenav-elem"> <img class="icon" src="../public/assets/salary.png" alt="Salary"> <span class="text">Salary</span> </div>
+
+            <div class="sidenav-elem"> <img class="icon" src="../public/assets/statistics.png" alt="Statistics"> <span class="text">Statistics</span> </div>
+
+            <div class="sidenav-elem"> <div class="text">Settings</div> </div>
+        </div>
+
+        
+
+        
+    </div>
+
+   <!-- Main content here -->
+
+    <div class="main">
+        <div class="topbar">
+            <div class="text">Search</div>
+        </div>
+        <div class="main-box">
+            <div class="main-div">
+            
+                <div class="table-div">
+                    <div class="text"><strong>Staff</strong></div></br>
+                    <table>
+                    <tr>
+                        <th class="cell1 top-left-corner" scope="col"><div class="text">Name</div></th>
+                        <th scope="col"><div class="text">Address</div></th>
+                        <th scope="col"><div class="text">Allowances</div></th>
+                        <th scope="col"><div class="text">Awards</div></th>
+                        <th scope="col"><div class="text">Salary</div></th>
+                        <th scope="col"><div class="text">Rank</div></th>
+                        <th scope="col"><div class="text">Role</div></th>
+                        <th scope="col"><div class="text">Update</div></th>
+                        <th class="top-right-corner" scope="col"><div class="text">Total earned</div></th>
+                    </tr>
+                    <tr>
+                        <td class="cell1"><div class="text">ICON/22/1142</div></td>
+                        <td><div class="text">Nsimbe Paul Beven</div></td>
+                        <td><div class="text">Kanyanya</div></td>
+                        <td><div class="text">256702085568</div></td>
+                        <td><div class="text">Full Day</div></td>
+                        <td><div class="text">256753770782</div></td>
+                        <td><div class="text">Top</div></td>
+                        <td><div class="text">750000</div></td>
+                        <td><div class="text">600000</div></td>
+                    </tr><tr>
+                        <td class="cell1"><div class="text">ICON/22/1142</div></td>
+                        <td><div class="text">Nsimbe Paul Beven</div></td>
+                        <td><div class="text">Kanyanya</div></td>
+                        <td><div class="text">256702085568</div></td>
+                        <td><div class="text">Full Day</div></td>
+                        <td><div class="text">256753770782</div></td>
+                        <td><div class="text">Top</div></td>
+                        <td><div class="text">750000</div></td>
+                        <td><div class="text">600000</div></td>
+                    </tr>
+                    <tr>
+                        <td class="cell1"><div class="text">ICON/22/1142</div></td>
+                        <td><div class="text">Nsimbe Paul Beven</div></td>
+                        <td><div class="text">Kanyanya</div></td>
+                        <td><div class="text">256702085568</div></td>
+                        <td><div class="text">Full Day</div></td>
+                        <td><div class="text">256753770782</div></td>
+                        <td><div class="text">Top</div></td>
+                        <td><div class="text">750000</div></td>
+                        <td><div class="text">600000</div></td>
+                    </tr>
+                    <tr>
+                        <td class="cell1"><div class="text">ICON/22/1142</div></td>
+                        <td><div class="text">Nsimbe Paul Beven</div></td>
+                        <td><div class="text">Kanyanya</div></td>
+                        <td><div class="text">256702085568</div></td>
+                        <td><div class="text">Full Day</div></td>
+                        <td><div class="text">256753770782</div></td>
+                        <td><div class="text">Top</div></td>
+                        <td><div class="text">750000</div></td>
+                        <td><div class="text">600000</div></td>
+                    </tr>
+                    <tr>
+                        <td class="cell1"><div class="text">ICON/22/1142</div></td>
+                        <td><div class="text">Nsimbe Paul Beven</div></td>
+                        <td><div class="text">Kanyanya</div></td>
+                        <td><div class="text">256702085568</div></td>
+                        <td><div class="text">Full Day</div></td>
+                        <td><div class="text">256753770782</div></td>
+                        <td><div class="text">Top</div></td>
+                        <td><div class="text">750000</div></td>
+                        <td><div class="text">600000</div></td>
+                    </tr><tr>
+                        <td class="cell1"><div class="text">ICON/22/1142</div></td>
+                        <td><div class="text">Nsimbe Paul Beven</div></td>
+                        <td><div class="text">Kanyanya</div></td>
+                        <td><div class="text">256702085568</div></td>
+                        <td><div class="text">Full Day</div></td>
+                        <td><div class="text">256753770782</div></td>
+                        <td><div class="text">Top</div></td>
+                        <td><div class="text">750000</div></td>
+                        <td><div class="text">600000</div></td>
+                    </tr>
+
+
+
+
+
+                </table>
+                </div>
+
+                
+
+            </div>
+
+        </div>
+        
+    </div>
+    
+</body>
+</html>

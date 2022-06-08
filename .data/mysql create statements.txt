@@ -1,0 +1,219 @@
+CREATE TABLE `icondata`.`students` (
+  `student_id` INT NOT NULL,
+  `firstname` VARCHAR(45) NOT NULL,
+  `middlename` VARCHAR(45) NOT NULL,
+  `lastname` VARCHAR(45) NOT NULL,
+  `age` INT NOT NULL,
+  `gender` VARCHAR(1) NOT NULL,
+  `dob` VARCHAR(20) NOT NULL,
+  `class` VARCHAR(10) NOT NULL,
+  `program` VARCHAR(20) NOT NULL,
+  `address` VARCHAR(400) NOT NULL,
+  `started_from_here` VARCHAR(10) NOT NULL,
+  `from_where` VARCHAR(20) NOT NULL,
+  `uniform_flag` INT NOT NULL,
+  `school_fees_flag` INT NOT NULL,
+  `academic_flag` INT NOT NULL,
+  `registration_flag` INT NOT NULL,
+  `updates` VARCHAR(1000) NOT NULL,
+  `class_joined` VARCHAR(45) NOT NULL,
+  `health_specialties` VARCHAR(200) NOT NULL,
+  PRIMARY KEY (`student_id`));
+
+
+DELETE FROM `icondata`.`guardians` WHERE (`guardian_id` = '10000');
+
+
+
+CREATE TABLE `icondata`.`admins` (
+  `admin_id` INT NOT NULL,
+  `firstname` VARCHAR(45) NOT NULL,
+  `middlename` VARCHAR(45) NOT NULL,
+  `lastname` VARCHAR(45) NOT NULL,
+  `password` VARCHAR(100) NOT NULL,
+  `notes` VARCHAR(1000) NOT NULL,
+  `email` VARCHAR(45) NOT NULL,
+  `phone_number` VARCHAR(45) NOT NULL,
+  `role` VARCHAR(45) NOT NULL,
+  `date_joined` VARCHAR(45) NOT NULL,
+  `address` VARCHAR(100) NOT NULL,
+  `updates` VARCHAR(1000) NOT NULL,
+  PRIMARY KEY (`admin_id`));
+
+ALTER TABLE `icondata`.`admins` 
+CHANGE COLUMN `password` `password` VARCHAR(200) NOT NULL ;
+
+
+
+CREATE TABLE `icondata`.`fathers` (
+  `father_id` INT NOT NULL,
+  `student_id` INT NOT NULL,
+  `firstname` VARCHAR(45) NOT NULL,
+  `middlename` VARCHAR(45) NOT NULL,
+  `lastname` VARCHAR(45) NOT NULL,
+  `phone_number` VARCHAR(45) NOT NULL,
+  `email` VARCHAR(45) NOT NULL,
+  `address` VARCHAR(200) NOT NULL,
+  `occupation` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`father_id`),
+	CONSTRAINT student_id FOREIGN KEY(student_id)
+REFERENCES students(student_id)
+
+);
+
+ALTER TABLE `icondata`.`fathers` 
+ADD COLUMN `password` VARCHAR(45) NOT NULL AFTER `occupation`;
+
+
+CREATE TABLE `icondata`.`mothers` (
+  `mother_id` INT NOT NULL,
+  `student_id` INT NOT NULL,
+  `firstname` VARCHAR(45) NOT NULL,
+  `middlename` VARCHAR(45) NOT NULL,
+  `lastname` VARCHAR(45) NOT NULL,
+  `phone_number` VARCHAR(45) NOT NULL,
+  `email` VARCHAR(45) NOT NULL,
+  `address` VARCHAR(200) NOT NULL,
+  `occupation` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`mother_id`),
+	CONSTRAINT mstudent_id FOREIGN KEY(student_id)
+REFERENCES students(student_id)
+
+);
+
+ALTER TABLE `icondata`.`mothers` 
+ADD COLUMN `password` VARCHAR(45) NOT NULL AFTER `occupation`;
+
+
+
+CREATE TABLE `icondata`.`guardians` (
+  `guardian_id` INT NOT NULL,
+  `student_id` INT NOT NULL,
+  `firstname` VARCHAR(45) NOT NULL,
+  `middlename` VARCHAR(45) NOT NULL,
+  `lastname` VARCHAR(45) NOT NULL,
+  `phone_number` VARCHAR(45) NOT NULL,
+  `email` VARCHAR(45) NOT NULL,
+  `address` VARCHAR(200) NOT NULL,
+  `occupation` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`guardian_id`),
+	CONSTRAINT gstudent_id FOREIGN KEY(student_id)
+REFERENCES students(student_id)
+
+);
+
+ALTER TABLE `icondata`.`guardians` 
+ADD COLUMN `password` VARCHAR(45) NOT NULL AFTER `occupation`;
+
+
+
+
+CREATE TABLE `icondata`.`more_expenditures` (
+  `expenditure_id` INT NOT NULL,
+  `name` VARCHAR(45) NOT NULL,
+  `amount_spent` VARCHAR(45) NOT NULL,
+  `month` VARCHAR(45) NOT NULL,
+  `update` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`expenditure_id`));
+
+
+
+CREATE TABLE `icondata`.`salaries` (
+  `salary_id` INT NOT NULL,
+  `staff_id` INT NOT NULL,
+  `month` VARCHAR(45) NOT NULL,
+  `salary_only` DOUBLE NOT NULL,
+  `allowance` DOUBLE NOT NULL,
+  `total_given` DOUBLE NOT NULL,
+  `balance_not_given` DOUBLE NOT NULL,
+  `cleared` VARCHAR(5) NOT NULL,
+  `update` VARCHAR(45) NOT NULL,
+  `salariescol` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`salary_id`)
+CONSTRAINT staff_id FOREIGN KEY(staff_id)
+REFERENCES staff(staff_id));
+
+
+
+
+CREATE TABLE `icondata`.`staff` (
+  `staff_id` INT NOT NULL,
+  `firstname` VARCHAR(45) NOT NULL,
+  `middlename` VARCHAR(45) NOT NULL,
+  `lastname` VARCHAR(45) NOT NULL,
+  `phone_number` VARCHAR(45) NOT NULL,
+  `email` VARCHAR(45) NOT NULL,
+  `address` VARCHAR(200) NOT NULL,
+  `salary` DOUBLE NOT NULL,
+  `allowance` DOUBLE NOT NULL,
+  `awards` VARCHAR(45) NOT NULL,
+  `earned_in_total` DOUBLE NOT NULL,
+  `role` VARCHAR(45) NOT NULL,
+  `ranking` VARCHAR(45) NOT NULL,
+  `updates` VARCHAR(45) NOT NULL,
+  `staffcol` VARCHAR(45) NOT NULL,
+  `password` VARCHAR(100) NOT NULL,
+  PRIMARY KEY (`staff_id`));
+
+
+
+CREATE TABLE `icondata`.`uniform` (
+  `product_id` INT NOT NULL,
+  `stocked_this_term` VARCHAR(45) NOT NULL,
+  `sold_this_term` VARCHAR(45) NOT NULL,
+  `price_bought_each` VARCHAR(45) NOT NULL,
+  `price_sold_each` VARCHAR(45) NOT NULL,
+  `amount_gained` VARCHAR(45) NOT NULL,
+  `amount_left` VARCHAR(45) NOT NULL,
+  `term` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`product_id`));
+
+
+CREATE TABLE `icondata`.`schoolfees` (
+  `student_id` INT NOT NULL,
+  `standard_fees` DOUBLE NOT NULL,
+  `fees_agreed` DOUBLE NOT NULL,
+  `deduction` DOUBLE NOT NULL,
+  `paid_this_term` DOUBLE NOT NULL,
+  `paid_in_total` DOUBLE NOT NULL,
+  `balance_this_term` DOUBLE NOT NULL,
+  `balance_in_total` DOUBLE NOT NULL,
+  `latest_payment` DOUBLE NOT NULL,
+  `reason_for_deduction` VARCHAR(45) NOT NULL,
+  `update` VARCHAR(45) NOT NULL,
+  `term` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`student_id`));
+
+
+CREATE TABLE `icondata`.`registration` (
+  `student_id` INT NOT NULL,
+  `intake_year` VARCHAR(45) NOT NULL,
+  `intake_term` VARCHAR(45) NOT NULL,
+  `standard_reg_fee` DOUBLE NOT NULL,
+  `amount_paid` DOUBLE NOT NULL,
+  `balance` DOUBLE NOT NULL,
+  `date` VARCHAR(45) NOT NULL,
+  `update` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`student_id`));
+
+
+
+CREATE TABLE `icondata`.`payments` (
+  `ref_num` INT NOT NULL,
+  `student_id` INT NOT NULL,
+  `date` VARCHAR(45) NOT NULL,
+  `amount` DOUBLE NOT NULL,
+CONSTRAINT pstudent_id FOREIGN KEY(student_id)
+REFERENCES students(student_id),
+  PRIMARY KEY (`ref_num`));
+
+
+CREATE TABLE `icondata`.`uniform_student` (
+  `student_id` INT NOT NULL,
+  `date` VARCHAR(45) NOT NULL,
+  `product_id` INT NOT NULL,
+  `amount_paid` VARCHAR(45) NOT NULL,
+  `amount_left` VARCHAR(45) NOT NULL,
+CONSTRAINT product_id FOREIGN KEY(product_id)
+REFERENCES uniform(product_id),
+  PRIMARY KEY (`student_id`));
